@@ -1,6 +1,6 @@
-# Jose Ocampo | Computer Science Graduate 🎓 <br/>
+# Jose Ocampo - Software Developer 🎓 <br/>
 
-💻 Software Developer | System Architect | Freelance Consultant
+💻 System Architect | Freelance Consultant | Computer Science Graduate
 
 ## About Me:</br> 
 I design and build multipurpose software solutions for a variety of clients — from small startups to established businesses. My work ranges from creating scalable backend systems to architecting full-stack applications that solve real-world problems.
