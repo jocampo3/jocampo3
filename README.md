@@ -12,11 +12,3 @@ I design and build multipurpose software solutions for a variety of clients — 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-ocampo03) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jeocampo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@josayjay305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ocampojose305@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jocampo3&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jocampo3&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jocampo3&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jocampo3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
